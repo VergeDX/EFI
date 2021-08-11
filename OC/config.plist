@@ -968,7 +968,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
@@ -1261,6 +1261,7 @@
 		<key>Drivers</key>
 		<array>
 			<string>HfsPlus.efi</string>
+			<string>OpenCanopy.efi</string>
 			<string>OpenRuntime.efi</string>
 		</array>
 		<key>Input</key>
